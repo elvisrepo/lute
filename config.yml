@@ -1,5 +1,4 @@
 ENV: prod
 DBNAME: lute.db
-
-DATAPATH: ~/pCloudDrive/lute_data
-BACKUP_PATH: ~/pCloudDrive/lute_backups
+DATAPATH: ./MY_LUTE/data
+BACKUP_PATH: ./MY_LUTE/backups
